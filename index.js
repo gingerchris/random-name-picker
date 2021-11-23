@@ -1,4 +1,4 @@
-const names = ['Em', 'Emilia', 'Luke'];
+const names = ['Em', 'Emilia', 'Betti'];
 
 const button = document.getElementById('chooser');
 const selectionContainer = document.getElementById('selection');
